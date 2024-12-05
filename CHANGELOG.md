@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.4.1](https://github.com/soltysh/uds-common/compare/v1.4.0...v1.4.1) (2024-12-05)
+
+
+### Bug Fixes
+
+* check tests directories in renovate updates ([#351](https://github.com/soltysh/uds-common/issues/351)) ([61385c2](https://github.com/soltysh/uds-common/commit/61385c2fc0463e125e1914d59c4d7288976c5628))
+
+
+### Miscellaneous
+
+* **deps:** update uds common package dependencies to v1.27.3 ([#349](https://github.com/soltysh/uds-common/issues/349)) ([4fbe49f](https://github.com/soltysh/uds-common/commit/4fbe49f520cfa2c8ca38a39b829a7b2c782bae47))
+* **deps:** update uds common support dependencies ([#348](https://github.com/soltysh/uds-common/issues/348)) ([4430e46](https://github.com/soltysh/uds-common/commit/4430e46bcd30092cb25e24bc278b54602602c3fb))
+
 ## [1.4.0](https://github.com/defenseunicorns/uds-common/compare/v1.3.0...v1.4.0) (2024-11-22)
 
 
